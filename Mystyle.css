@@ -1,3 +1,11 @@
-col {
-    background-color: bisque;
+
+.card.clr {
+    background-color: rgb(125, 213, 213);
+}
+
+.card.ylw {
+    background-color: rgb(230, 230, 162);
+}
+.card.grn {
+    background-color: rgb(169, 223, 169);
 }
